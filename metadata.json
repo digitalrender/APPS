@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ArpGen AI - Rhythmic Arpeggiator VST",
+  "description": "A professional-grade rhythmic arpeggiator that uses AI to generate complex patterns from uploaded audio samples, designed with a VST-inspired interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
